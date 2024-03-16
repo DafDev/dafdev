@@ -1,5 +1,10 @@
-### Hi there 👋
+### Welcome 👋 to my peregrinations and adventures
 
+Let's talk about me, that is what you're here for after all 😉
+- 🔭 I’m currently working as a software engineer
+- 🌱 I’m currently learning sofwtare architecture and front-end developpment  
+- 📫 How to reach me: linkedin
+- ⚡ Fun fact: I love dancing
 <!--
 **DafDev/dafdev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
