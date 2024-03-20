@@ -2,7 +2,7 @@
 
 Let's talk about me, that is what you're here for after all 😉
 - 🔭 I’m currently working as a software engineer
-- 🌱 I’m currently learning sofwtare architecture and front-end developpment  
+- 🌱 I’m currently learning software architecture(DDD, TDD) and front-end developpment  
 - 📫 How to reach me: linkedin
 - ⚡ Fun fact: I love dancing
 <!--
